@@ -1,0 +1,16 @@
+{
+  "author": "Monica Wilkinson",
+  "name": "json-schema",
+  "description": "Activity Streams JSON Schema",
+  "version": "0.0.0",
+  "homepage": "https://github.com/activitystreams/json-schema",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/activitystreams/json-schema.git"
+  },
+  "engines": {
+    "node": "~v0.4.11"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
