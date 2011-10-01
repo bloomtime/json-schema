@@ -8,9 +8,6 @@
     "type": "git",
     "url": "git://github.com/activitystreams/json-schema.git"
   },
-  "engines": {
-    "node": "~v0.4.11"
-  },
   "dependencies": {},
   "devDependencies": {}
 }
