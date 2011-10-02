@@ -1,6 +1,6 @@
 {
   "author": "Monica Wilkinson",
-  "name": "json-schema",
+  "name": "activitystreams-json-schema",
   "description": "Activity Streams JSON Schema",
   "version": "0.0.0",
   "homepage": "https://github.com/activitystreams/json-schema",
